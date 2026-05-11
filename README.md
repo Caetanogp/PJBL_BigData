@@ -2,7 +2,8 @@ Integrantes: Davi Henrique, Caetano Padoin e Matheus Brehm
 
 # PjBL01 — MapReduce (Big Data — PUCPR)
 
-Soluções Hadoop MapReduce em Java para responder às 8 perguntas do projeto,`r`nprocessando um dataset CSV
+Soluções Hadoop MapReduce em Java para responder às 8 perguntas do projeto,
+processando um dataset CSV
 de transações comerciais internacionais (10 colunas, separador `;`).
 
 ## Pré-requisitos
