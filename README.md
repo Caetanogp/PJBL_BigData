@@ -18,7 +18,7 @@ de transações comerciais internacionais (10 colunas, separador `;`).
 PJBL_BigData/
 ├── pom.xml
 ├── input/                      # coloque aqui o arquivo transactions.csv
-├── output/                     # diretórios de saída do Hadoop (um por questão)
+├── output/                     # gerado durante a execução do Hadoop (não versionado)
 ├── results/                    # arquivos .txt finais (um por questão)
 └── src/main/java/br/pucpr/mapreduce/
     ├── common/                 # classes reutilizáveis
