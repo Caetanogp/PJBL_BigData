@@ -1,0 +1,7 @@
+target/
+build/
+.github/
+*.class
+*.jar
+*.log
+output/
